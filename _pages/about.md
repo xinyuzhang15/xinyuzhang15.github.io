@@ -32,7 +32,7 @@ Publications
 - **Zhang, X.** and Tong, H. (2022). [Asymptotic theory of principal component analysis for time series data with cautionary comments.](https://academic-oup-com.proxy.lib.uiowa.edu/jrsssa/article/185/2/543/7068980) *Journal of the Royal Statistical Society: Series A.* 185(2), 543–565.
 
 Manuscripts
-------
+======
 - **Zhang, X.** and  Chan, K.-S. [Spectral change point estimation for high dimensional time series by sparse tensor decomposition.](https://arxiv.org/abs/2305.10656) *arXiv:2305.10656*. Under revision.
 - **Zhang, X.** and  Chan, K.-S. [Adaptive matrix change point detection: Leveraging structured mean shifts.](https://arxiv.org/abs/2401.17473) *arXiv:2401.17473*. Under review.
 - Yu, C., Li, D., **Zhang, X.** *, and Tong, H. [Two-way Threshold Matrix Autoregression.](https://arxiv.org/abs/2407.10272) *arXiv:2407.10272*. Under review.
