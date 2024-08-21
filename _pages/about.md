@@ -21,7 +21,7 @@ Education
 
 Publications
 ======
-(* indicates corresponding author)
+(\* indicates corresponding author)
 
 - Armstrong, M. K., Jain, S., Nuckols, V., Pewowaruk, R., **Zhang, X.**, DuBose, L., ... and Pierce, G. L. (2024).
   [The association of structural versus load-dependent large artery stiffness mechanisms with cerebrovascular damage and cortical atrophy in humans.](https://link.springer.com/article/10.1007/s11357-024-01254-5#:~:text=These%20findings%20are%20consistent%20with,5%2C6%2C7%5D)
@@ -35,4 +35,4 @@ Manuscripts
 ======
 - **Zhang, X.** and  Chan, K.-S. [Spectral change point estimation for high dimensional time series by sparse tensor decomposition.](https://arxiv.org/abs/2305.10656) *arXiv:2305.10656*. Under revision.
 - **Zhang, X.** and  Chan, K.-S. [Adaptive matrix change point detection: Leveraging structured mean shifts.](https://arxiv.org/abs/2401.17473) *arXiv:2401.17473*. Under review.
-- Yu, C., Li, D., **Zhang, X.** *, and Tong, H. [Two-way Threshold Matrix Autoregression.](https://arxiv.org/abs/2407.10272) *arXiv:2407.10272*. Under review.
+- Yu, C., Li, D., **Zhang, X.** \*, and Tong, H. [Two-way Threshold Matrix Autoregression.](https://arxiv.org/abs/2407.10272) *arXiv:2407.10272*. Under review.
