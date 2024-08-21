@@ -33,6 +33,6 @@ Publications
 
 Manuscripts
 ======
-- **Zhang, X.** and  Chan, K.-S. [Spectral change point estimation for high dimensional time series by sparse tensor decomposition.](https://arxiv.org/abs/2305.10656) *arXiv:2305.10656*. Under revision.
+- **Zhang, X.** and  Chan, K.-S. [Spectral change point estimation for high dimensional time series by sparse tensor decomposition.](https://arxiv.org/abs/2305.10656) *arXiv:2305.10656*. In revision.
 - **Zhang, X.** and  Chan, K.-S. [Adaptive matrix change point detection: Leveraging structured mean shifts.](https://arxiv.org/abs/2401.17473) *arXiv:2401.17473*. Under review.
 - Yu, C., Li, D., **Zhang, X.** \*, and Tong, H. [Two-way Threshold Matrix Autoregression.](https://arxiv.org/abs/2407.10272) *arXiv:2407.10272*. Under review.
