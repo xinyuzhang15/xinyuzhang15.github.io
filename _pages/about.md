@@ -19,14 +19,16 @@ Education
 
 Publications
 ======
-- Armstrong, M. K., Jain, S., Nuckols, V., Pewowaruk, R., \textbf{{Zhang, X.}}, DuBose, L., ... and Pierce, G. L. (2024). The association of structural versus load-dependent large artery stiffness mechanisms with cerebrovascular damage and cortical atrophy in humans. \textit{GeroScience.} 1-11.
-- \textbf{{Zhang, X.}} and {Li, D.} (2024). Smooth transition moving average models: Estimation, testing, and computation. \textit{Journal of Time Series Analysis.} 45(3), 463-478.
-- \textbf{{Zhang, X.}}, {Li, D.} and  {Tong, H.}(2024). On the least squares estimation of multiple-threshold-variable autoregressive models. \textit{Journal of Business and Economic Statistics.} 42(1), 215-228.
-- Nadeem, S. A., \textbf{{Zhang, X.}}, Chan, K. S., Hoffman, E. A., Comellas, A. P., and Saha, P. K. (2023). New CT-based metrics of rib cage dynamics between inspiration and expiration reveal accelerated aging in COPD among smokers. In \textit{C29. MORE THAN MEETS THE EYE: ADVANCED LUNG IMAGING (pp. A4716-A4716). American Thoracic Society.}
-- \textbf{{Zhang, X.}} and {Tong, H.} (2022). Asymptotic theory of principal component analysis for time series data with cautionary comments. \textit{Journal of the Royal Statistical Society: Series A.} 185(2), 543–565.
+(^* indicates corresponding author)
+
+- Armstrong, M. K., Jain, S., Nuckols, V., Pewowaruk, R., **Zhang, X.**, DuBose, L., ... and Pierce, G. L. (2024). The association of structural versus load-dependent large artery stiffness mechanisms with cerebrovascular damage and cortical atrophy in humans. \textit{GeroScience.} 1-11.
+- **Zhang, X.** and Li, D. (2024). Smooth transition moving average models: Estimation, testing, and computation. \textit{Journal of Time Series Analysis.} 45(3), 463-478.
+- **Zhang, X.**, Li, D. and  Tong, H.(2024). On the least squares estimation of multiple-threshold-variable autoregressive models. \textit{Journal of Business and Economic Statistics.} 42(1), 215-228.
+- Nadeem, S. A., **Zhang, X.**, Chan, K. S., Hoffman, E. A., Comellas, A. P., and Saha, P. K. (2023). New CT-based metrics of rib cage dynamics between inspiration and expiration reveal accelerated aging in COPD among smokers. In \textit{C29. MORE THAN MEETS THE EYE: ADVANCED LUNG IMAGING (pp. A4716-A4716). American Thoracic Society.}
+- **Zhang, X.** and Tong, H. (2022). Asymptotic theory of principal component analysis for time series data with cautionary comments. \textit{Journal of the Royal Statistical Society: Series A.} 185(2), 543–565.
 
 Manuscripts
 ------
-- \textbf{{Zhang, X.}} and  {Chan, K.-S.} Spectral change point estimation for high dimensional time series by sparse tensor decomposition. \textit{arXiv:2305.10656}. Under revision.
-- \textbf{{Zhang, X.}} and  {Chan, K.-S.} Adaptive matrix change point detection: Leveraging structured mean shifts. 	\textit{arXiv:2401.17473}. Under review.
-- Yu, C., Li, D., \textbf{{Zhang, X. *}} , and Tong, H. (2024). Two-way Threshold Matrix Autoregression. \textit{arXiv preprint arXiv:2407.10272}.
+- **Zhang, X.** and  Chan, K.-S. Spectral change point estimation for high dimensional time series by sparse tensor decomposition. \textit{arXiv:2305.10656}. Under revision.
+- **Zhang, X.** and  Chan, K.-S. Adaptive matrix change point detection: Leveraging structured mean shifts. 	\textit{arXiv:2401.17473}. Under review.
+- Yu, C., Li, D., - **Zhang, X.** ^*, and Tong, H. Two-way Threshold Matrix Autoregression. \textit{arXiv preprint arXiv:2407.10272}.
