@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Xinyu Zhang, a Postdoctoral Research Scholar in Department of Statistics and Actuarial Science at The University of Iowa. I obtained my PhD degree from Tsinghua University under the guidance of Dr.[Dong Li](https://www.stat.tsinghua.edu.cn/teachers/dongli/) and Dr. [Howell Tong](https://scholar.google.com/citations?user=5t5s9yMAAAAJ&hl=zh-CN). Currently, I’m working under the mentorship of Dr. [Kung-Sik Chan](https://scholar.google.com/citations?user=yuqVgEUAAAAJ&hl=zh-CN).
+I am Xinyu Zhang, a Postdoctoral Research Scholar in Department of Statistics and Actuarial Science at The University of Iowa. I obtained my PhD degree from Tsinghua University under the guidance of Dr. [Dong Li](https://www.stat.tsinghua.edu.cn/teachers/dongli/) and Dr. [Howell Tong](https://scholar.google.com/citations?user=5t5s9yMAAAAJ&hl=zh-CN). Currently, I’m working under the mentorship of Dr. [Kung-Sik Chan](https://scholar.google.com/citations?user=yuqVgEUAAAAJ&hl=zh-CN). My research interest includes high dimensional inference, dependent data analysis, change point detection, nonlinear time series analysis, frequency domain analysis, etc.  
 
 
 
