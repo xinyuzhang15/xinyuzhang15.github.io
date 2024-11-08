@@ -22,10 +22,10 @@ Education
 Publications
 ======
 (\* indicates corresponding author)
-
+- Nadeem, S. A., **Zhang, X.**, Nagpal P., Hoffman, E. A., Chan, K. S., Comellas, A. P., and Saha, P. K. (2024). [Automated CT-based decoupling of the effects of airway narrowing and wall thinning on airway counts in chronic obstructive pulmonary disease.](https://academic.oup.com/bjr/advance-article/doi/10.1093/bjr/tqae211/7840261) *British Journal of Radiology.* tqae211.
 - Armstrong, M. K., Jain, S., Nuckols, V., Pewowaruk, R., **Zhang, X.**, DuBose, L., ... and Pierce, G. L. (2024).
   [The association of structural versus load-dependent large artery stiffness mechanisms with cerebrovascular damage and cortical atrophy in humans.](https://link.springer.com/article/10.1007/s11357-024-01254-5#:~:text=These%20findings%20are%20consistent%20with,5%2C6%2C7%5D)
-  *GeroScience.* 1-11.
+  *GeroScience.* 46, 5587–5597.
 - **Zhang, X.** and Li, D. (2024). [Smooth transition moving average models: Estimation, testing, and computation.](https://onlinelibrary.wiley.com/doi/full/10.1111/jtsa.12721) *Journal of Time Series Analysis.* 45(3), 463-478.
 - **Zhang, X.**, Li, D. and  Tong, H.(2024). [On the least squares estimation of multiple-threshold-variable autoregressive models.](https://www.tandfonline.com/doi/abs/10.1080/07350015.2023.2174124) *Journal of Business and Economic Statistics.* 42(1), 215-228.
 - Nadeem, S. A., **Zhang, X.**, Chan, K. -S., Hoffman, E. A., Comellas, A. P., and Saha, P. K. (2023). [New CT-based metrics of rib cage dynamics between inspiration and expiration reveal accelerated aging in COPD among smokers.](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A4716) In *C29. MORE THAN MEETS THE EYE: ADVANCED LUNG IMAGING (pp. A4716-A4716). American Thoracic Society.*
@@ -33,6 +33,8 @@ Publications
 
 Manuscripts
 ======
-- **Zhang, X.** and  Chan, K.-S. [Spectral change point estimation for high dimensional time series by sparse tensor decomposition.](https://arxiv.org/abs/2305.10656) *arXiv:2305.10656*. In revision.
-- **Zhang, X.** and  Chan, K.-S. [Adaptive matrix change point detection: Leveraging structured mean shifts.](https://arxiv.org/abs/2401.17473) *arXiv:2401.17473*.  In revision.
+- **Zhang, X.** and  Chan, K.-S. [Spectral change point estimation for high dimensional time series by sparse tensor decomposition.](https://arxiv.org/abs/2305.10656) *arXiv:2305.10656*. Under revision.
+- **Zhang, X.** and  Chan, K.-S. [Adaptive matrix change point detection: Leveraging structured mean shifts.](https://arxiv.org/abs/2401.17473) *arXiv:2401.17473*.  Under revision.
 - Yu, C., Li, D., **Zhang, X.** \*, and Tong, H. [Two-way Threshold Matrix Autoregression.](https://arxiv.org/abs/2407.10272) *arXiv:2407.10272*. Under review.
+- Johnson, M., Eberle M., Hultman I., **Zhang, X.**, Hing B., Filali Y., Jimenez A., Matkovich, M., Mitchell S., Miller J., Velamuri R., Adegboyo J., Chan, K. S., Srivastava S. and Hultman R.
+Peripheral CGRP engages brain-wide electrical network activity of migraine. Manuscript.
