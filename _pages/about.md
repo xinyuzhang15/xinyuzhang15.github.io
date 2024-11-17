@@ -37,4 +37,4 @@ Manuscripts
 - **Zhang, X.** and  Chan, K.-S. [Adaptive matrix change point detection: Leveraging structured mean shifts.](https://arxiv.org/abs/2401.17473) *arXiv:2401.17473*.  Under revision.
 - Yu, C., Li, D., **Zhang, X.** \*, and Tong, H. [Two-way Threshold Matrix Autoregression.](https://arxiv.org/abs/2407.10272) *arXiv:2407.10272*. 
 - Johnson, M., Eberle M., Hultman I., **Zhang, X.**, Hing B., Filali Y., Jimenez A., Matkovich, M., Mitchell S., Miller J., Velamuri R., Adegboyo J., Chan, K. S., Srivastava S. and Hultman R.
-Peripheral CGRP engages brain-wide electrical network activity of migraine. *bioRxiv 2024.11.14.622885*.
+[Peripheral CGRP engages brain-wide electrical network activity of migraine.](https://www.biorxiv.org/content/10.1101/2024.11.14.622885v1.article-info) *bioRxiv 2024.11.14.622885*.
