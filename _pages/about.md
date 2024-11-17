@@ -29,7 +29,7 @@ Publications
 (\* indicates corresponding author)
 - Nadeem, S. A., **Zhang, X.**, Nagpal P., Hoffman, E. A., Chan, K. S., Comellas, A. P., and Saha, P. K. (2024). [Automated CT-based decoupling of the effects of airway narrowing and wall thinning on airway counts in chronic obstructive pulmonary disease.](https://academic.oup.com/bjr/advance-article/doi/10.1093/bjr/tqae211/7840261) *British Journal of Radiology.* tqae211.
 - Armstrong, M. K., Jain, S., Nuckols, V., Pewowaruk, R., **Zhang, X.**, DuBose, L., Sodoma, M., Madero, B., Voss, M. W., and Pierce, G. L. (2024).
-  [The association of structural versus load-dependent large artery stiffness mechanisms with cerebrovascular damage and cortical atrophy in humans.](https://link.springer.com/article/10.1007/s11357-024-01254-5#:~:text=These%20findings%20are%20consistent%20with,5%2C6%2C7%5D)
+  [The association of structural versus load-dependent large artery stiffness mechanisms with cerebrovascular damage and cortical atrophy in humans.](https://pubmed.ncbi.nlm.nih.gov/38902456/)
   *GeroScience.* 46, 5587–5597.
 - **Zhang, X.** and Li, D. (2024). [Smooth transition moving average models: Estimation, testing, and computation.](https://onlinelibrary.wiley.com/doi/full/10.1111/jtsa.12721) *Journal of Time Series Analysis.* 45(3), 463-478.
 - **Zhang, X.**, Li, D. and  Tong, H.(2024). [On the least squares estimation of multiple-threshold-variable autoregressive models.](https://www.tandfonline.com/doi/abs/10.1080/07350015.2023.2174124) *Journal of Business and Economic Statistics.* 42(1), 215-228.
