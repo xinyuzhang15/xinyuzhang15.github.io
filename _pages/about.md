@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 
-<img src="../images/Z30_3671.PNG" class="center" width="500"/> 
+<img src="../images/Z30_3671.PNG" class="center"/> 
 
 I am Xinyu Zhang, a Postdoctoral Research Scholar in the Department of Statistics and Actuarial Science at The University of Iowa. I obtained my PhD from the Center for Statistical Science at Tsinghua University, where I was advised by Dr. [Dong Li](https://www.stat.tsinghua.edu.cn/teachers/dongli/) and Dr. [Howell Tong](https://scholar.google.com/citations?user=5t5s9yMAAAAJ&hl=zh-CN). Currently, I’m working under the mentorship of Dr. [Kung-Sik Chan](https://scholar.google.com/citations?user=yuqVgEUAAAAJ&hl=zh-CN). 
 
@@ -20,9 +20,9 @@ Beyond academics, I enjoy photography and traveling!
 
 Education
 ======
-- 2017/09 - 2022/06: PhD in Statistics, Tsinghua University.
-- 2013/09 - 2017/07: B.S. in Statistics, Renmin University of China.
-- 2013/09 - 2017/07: B.Ec. in Economic Statistics, Renmin University of China.
+- 2017/09 to 2022/06: PhD in Statistics, Tsinghua University.
+- 2013/09 to 2017/07: B.S. in Statistics, Renmin University of China.
+- 2013/09 to 2017/07: B.Ec. in Economic Statistics, Renmin University of China.
 
 Publications
 ======
