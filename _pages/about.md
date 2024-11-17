@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
+**About Me**
 
 <img src="../images/Z30_3671.PNG" width="500"/>
 
