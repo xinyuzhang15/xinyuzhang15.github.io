@@ -27,7 +27,7 @@ Education
 Publications
 ======
 (\* indicates corresponding author)
-- Nadeem, S. A., **Zhang, X.**, Nagpal P., Hoffman, E. A., Chan, K. S., Comellas, A. P., and Saha, P. K. (2024). [Automated CT-based decoupling of the effects of airway narrowing and wall thinning on airway counts in chronic obstructive pulmonary disease.](https://academic.oup.com/bjr/advance-article/doi/10.1093/bjr/tqae211/7840261) *British Journal of Radiology.* tqae211.
+- Nadeem, S. A., **Zhang, X.**, Nagpal P., Hoffman, E. A., Chan, K. S., Comellas, A. P., and Saha, P. K. (2024). [Automated CT-based decoupling of the effects of airway narrowing and wall thinning on airway counts in chronic obstructive pulmonary disease.](https://academic.oup.com/bjr/advance-article/doi/10.1093/bjr/tqae211/7840261) *British Journal of Radiology.* tqae211. :link:
 - Armstrong, M. K., Jain, S., Nuckols, V., Pewowaruk, R., **Zhang, X.**, DuBose, L., ... and Pierce, G. L. (2024).
   [The association of structural versus load-dependent large artery stiffness mechanisms with cerebrovascular damage and cortical atrophy in humans.](https://link.springer.com/article/10.1007/s11357-024-01254-5#:~:text=These%20findings%20are%20consistent%20with,5%2C6%2C7%5D)
   *GeroScience.* 46, 5587–5597.
