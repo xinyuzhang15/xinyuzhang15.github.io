@@ -32,7 +32,7 @@ Publications
   [The association of structural versus load-dependent large artery stiffness mechanisms with cerebrovascular damage and cortical atrophy in humans.](https://pubmed.ncbi.nlm.nih.gov/38902456/)
   *GeroScience.* 46, 5587–5597.
 - **Zhang, X.** and Li, D. (2024). [Smooth transition moving average models: Estimation, testing, and computation.](https://onlinelibrary.wiley.com/doi/full/10.1111/jtsa.12721) *Journal of Time Series Analysis.* 45(3), 463-478.
-- **Zhang, X.**, Li, D. and  Tong, H.(2024). [On the least squares estimation of multiple-threshold-variable autoregressive models.](https://www.tandfonline.com/doi/abs/10.1080/07350015.2023.2174124) *Journal of Business and Economic Statistics.* 42(1), 215-228.
+- **Zhang, X.**, Li, D. and  Tong, H. (2024). [On the least squares estimation of multiple-threshold-variable autoregressive models.](https://www.tandfonline.com/doi/abs/10.1080/07350015.2023.2174124) *Journal of Business and Economic Statistics.* 42(1), 215-228.
 - Nadeem, S. A., **Zhang, X.**, Chan, K. S., Hoffman, E. A., Comellas, A. P., and Saha, P. K. (2023). [New CT-based metrics of rib cage dynamics between inspiration and expiration reveal accelerated aging in COPD among smokers.](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A4716) In *C29. MORE THAN MEETS THE EYE: ADVANCED LUNG IMAGING (pp. A4716-A4716). American Thoracic Society.*
 - **Zhang, X.** and Tong, H. (2022). [Asymptotic theory of principal component analysis for time series data with cautionary comments.](https://academic.oup.com/jrsssa/article/185/2/543/7068980) *Journal of the Royal Statistical Society: Series A.* 185(2), 543–565.
 
