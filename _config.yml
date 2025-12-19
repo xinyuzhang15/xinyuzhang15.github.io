@@ -24,11 +24,11 @@ author:
   avatar           : "IMG_2624.PNG"
   name             : "Xinyu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher in Statistics"
-  location         : "Iowa City"
-  employer         : "University of Iowa"
-  uri              : # URL
-  email            : "xinyu-zhang@uiowa.edu" 
+  bio              : "Associate Professor in Statistics"
+  location         : "Shanghai"
+  employer         : "East China Normal University"
+  uri              : "https://faculty.ecnu.edu.cn/_s35/zxy2_27567/main.psp"
+  email            : # "xinyu-zhang@uiowa.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
