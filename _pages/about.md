@@ -15,6 +15,8 @@ I am Xinyu Zhang, an Associate Professor in the School of Statistics in East Chi
 
 My research interests include high-dimensional inference, change point detection, nonlinear time series analysis, frequency domain analysis, and bootstrap methods, as well as matrix and tensor data analysis. I also collaborate closely with scientists in the health sciences and have been working on projects involving brain data, lung radiology data, and more.
 
+My work email address is xyzhang at sfs dot ecnu dot edu dot cn.
+
 
 Education
 ======
