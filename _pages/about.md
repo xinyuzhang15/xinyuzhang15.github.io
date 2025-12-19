@@ -27,7 +27,7 @@ Education
 Publications in Statistics
 ======
 (\* indicates corresponding author)
-- **Zhang, X.** and  Chan, K. S. [Spectral change point estimation for high dimensional time series by sparse tensor decomposition.](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf064/8271847) *Journal of the Royal Statistical Society: Series B.* In press.
+- **Zhang, X.** and  Chan, K. S. (2025) [Spectral change point estimation for high dimensional time series by sparse tensor decomposition.](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf064/8271847) *Journal of the Royal Statistical Society: Series B.* In press.
 - **Zhang, X.** and Li, D. (2024). [Smooth transition moving average models: Estimation, testing, and computation.](https://onlinelibrary.wiley.com/doi/full/10.1111/jtsa.12721) *Journal of Time Series Analysis.* 45(3), 463-478.
 - **Zhang, X.**, Li, D. and  Tong, H. (2024). [On the least squares estimation of multiple-threshold-variable autoregressive models.](https://www.tandfonline.com/doi/abs/10.1080/07350015.2023.2174124) *Journal of Business and Economic Statistics.* 42(1), 215-228.
 - **Zhang, X.** and Tong, H. (2022). [Asymptotic theory of principal component analysis for time series data with cautionary comments.](https://academic.oup.com/jrsssa/article/185/2/543/7068980) *Journal of the Royal Statistical Society: Series A.* 185(2), 543–565.
