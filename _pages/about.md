@@ -32,15 +32,15 @@ Publications in Statistics
 - **Zhang, X.**, Li, D. and  Tong, H. (2024). [On the least squares estimation of multiple-threshold-variable autoregressive models.](https://www.tandfonline.com/doi/abs/10.1080/07350015.2023.2174124) *Journal of Business and Economic Statistics.* 42(1), 215-228.
 - **Zhang, X.** and Tong, H. (2022). [Asymptotic theory of principal component analysis for time series data with cautionary comments.](https://academic.oup.com/jrsssa/article/185/2/543/7068980) *Journal of the Royal Statistical Society: Series A.* 185(2), 543–565.
 
-Publications in Interdisciplinary Research
+Selected Publications in Interdisciplinary Research
 ======
 -	Johnson, M., Eberle M., Hultman I., **Zhang, X.**, Hing B., Filali Y., Jimenez A., Matkovich, M., Mitchell S., Miller J., Velamuri R., Adegboyo J., Chan, K. S., Srivastava S. and Hultman R. (2026). [Early Life Stress induces brain-wide electrical network predisposition to migraine.](https://link.springer.com/article/10.1186/s10194-026-02399-8#citeas) *Journal of Headache and Pain*, 27,177.
-- Nadeem, S.A., **Zhang, X.**, Chan, K.S., Regan, E.A., Barr, R.G.G., Hoffman, E.A., Fain, S.B., Comellas, A.P. and Saha, P.K.. (2025). [CT-based Lung Inflation-related Radial and Longitudinal Airway Expansion Biomarkers in COPD.](https://www.atsjournals.org/doi/abs/10.1164/ajrccm.2025.211.Abstracts.A3373) *American Journal of Respiratory and Critical Care Medicine, 211(Abstracts)*, pp.A3373-A3373.
-- Liu, Y., Zhang, X., **Zhang, X.**, Nadeem, S.A., Chan, K.S., Regan, E.A., Barr, R.G.G., Hoffman, E.A., Fain, S.B., Comellas, A.P. and Saha, P.K. (2025). [Respiratory Mechanical Biomarkers of the Diaphragm and Chest Wall in COPD Using Inspiratory and Expiratory CT.](https://www.atsjournals.org/doi/abs/10.1164/ajrccm.2025.211.Abstracts.A3358) *American Journal of Respiratory and Critical Care Medicine, 211(Abstracts)*, pp.A3358-A3358. 
 - Nadeem, S. A., **Zhang, X.**, Nagpal P., Hoffman, E. A., Chan, K. S., Comellas, A. P., and Saha, P. K. (2024). [Automated CT-based decoupling of the effects of airway narrowing and wall thinning on airway counts in chronic obstructive pulmonary disease.](https://academic.oup.com/bjr/advance-article/doi/10.1093/bjr/tqae211/7840261) *British Journal of Radiology.* tqae211.
 - Armstrong, M. K., Jain, S., Nuckols, V., Pewowaruk, R., **Zhang, X.**, DuBose, L., Sodoma, M., Madero, B., Voss, M. W., and Pierce, G. L. (2024).
   [The association of structural versus load-dependent large artery stiffness mechanisms with cerebrovascular damage and cortical atrophy in humans.](https://pubmed.ncbi.nlm.nih.gov/38902456/)
   *GeroScience.* 46, 5587–5597.
-- Nadeem, S. A., **Zhang, X.**, Chan, K. S., Hoffman, E. A., Comellas, A. P., and Saha, P. K. (2023). [New CT-based metrics of rib cage dynamics between inspiration and expiration reveal accelerated aging in COPD among smokers.](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A4716) In *C29. MORE THAN MEETS THE EYE: ADVANCED LUNG IMAGING (pp. A4716-A4716). American Thoracic Society.*
 
+Full List of Publications
+======
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=ME0Vt0EAAAAJ&view_op=list_works&sortby=pubdate)
 
